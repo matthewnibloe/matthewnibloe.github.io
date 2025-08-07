@@ -1,0 +1,6 @@
+@techreport{nibloe2025levelling,
+  title={Levelling Down: The Distributional Consequences of Public Pay Caps},
+  author={Nibloe, Matthew},
+  year={2025},
+  institution={Institute for Fiscal Studies}
+}

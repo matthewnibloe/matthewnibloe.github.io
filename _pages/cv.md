@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, University College London, 2026 (Expected)
+* M.S. in Economics, University College London, 2020
+* B.S. in in Economics, University of Nottingham, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* 2025-Date: Consultant (previously PhD Economist Intern), OECD 
+  <!-- * GitHub University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: The Users -->
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-Date: Research Scholar (previously PhD Scholar), IFS
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021-Date: Research Affiliate, RFBerlin (previously CReAM)
+
+* 2022: PhD Economist Intern, Amazon
 
 Publications
 ======
@@ -47,11 +34,24 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+* 2025: UCL Stone Centre Funding
+  * £10k Research grant to facilitate my work on inequality 
+
+* 2024: IFS Enrichment Scholar
+  * 6 month fully funded secondment to IFS funded by ESRC to facilitate my research
+
+* 2024: UCL Student Choice Award for Inspiring Teaching Delivery (Honour Roll)
+
+* 2023: UCL Economics Best Final Year Undergraduate Teaching Award
+
+* 2022: UCL Economics Best Final Year Undergraduate Teaching Award
+
+* 2021: CReAM Funding 
+
+
   
 Teaching
 ======
@@ -59,6 +59,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

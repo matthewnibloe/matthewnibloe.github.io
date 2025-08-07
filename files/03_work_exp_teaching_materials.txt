@@ -1,0 +1,253 @@
+﻿
+Work Experience Workbook
+Supervisor: [Your Name]
+Department: Economics
+University: [Your University Name]
+Dates: [Insert Dates]
+
+
+--------------------------------------------
+Task 1: Exploring the Current State of the UK Economy
+--------------------------------------------
+Objective: Learn how to assess the health of the UK macroeconomy using key indicators.
+
+Instructions:
+- Identify and collect recent data on the following UK macroeconomic indicators (e.g. from ONS, Bank of England, OECD, or UK government statistical websites):
+  - GDP growth (current and historical)
+  - Interest rates (Bank of England base rate)
+  - Inflation rate (CPI or RPI)
+  - Employment and unemployment rates
+
+- For each series:
+  1. Find recent values and trends (e.g. last 5 years).
+  2. Plot or tabulate the data.
+  3. Evaluate what each indicator reveals about UK economic performance.
+     - Is GDP growing strongly or stagnating?
+     - Are inflation and wages keeping pace?
+     - Are interest rates high or low, and what does that imply?
+     - Is employment high (low unemployment), and who is working?
+
+- Reflect on the context:
+  - What could be causing recent economic changes?
+  - Write your findings and reflections below:
+
+
+--------------------------------------------
+Task 2: Why Labour Economics Matters
+--------------------------------------------
+Objective: Understand the big-picture relevance of labour economics and link macro performance to workers.
+
+Before we dive into the data, let’s take a step back and think about some bigger questions.
+
+What is labour economics?
+Labour economics is the study of how people work, how much they earn, and how jobs are created or lost. It’s about understanding:
+- How wages are determined
+- Why some jobs pay more than others
+- Who gets employed and who doesn’t
+- What governments can do to improve outcomes for workers
+
+Why is it important?
+Workers are at the heart of the economy — they are both producers and consumers:
+
+- As producers: Workers supply their time and skills to help produce goods and services. They are part of the “labour” input in the economy’s aggregate supply.
+- As consumers: Workers use their wages to buy goods and services. This spending drives aggregate demand. When wages rise, demand can increase — but so can costs for businesses.
+- As citizens: Workers pay taxes, vote, and are directly affected by public policy. Understanding their experiences helps us think about fairness, inequality, and social mobility.
+
+Reflection Questions:
+1. Why do you think economists study work and wages so closely?
+2. What happens to the economy if wages fall for a large group of people? What about if lots of people lose their jobs?
+3. Think about your own future. What would you want from the labour market? A good job? Fair pay? Job security?
+4. Can you think of any recent news stories where work or wages were central issues (e.g. strikes, cost of living, AI replacing jobs)? What economic questions do they raise?
+5. How do changes in the supply and demand for labour influence aggregate demand and aggregate supply in the economy?
+
+Write your responses below:
+[Write here]
+
+
+--------------------------------------------
+Task 3: Introduction to the pseudo data
+--------------------------------------------
+Objective: Understand how economists use data to answer real-world questions.
+
+Instructions:
+You will be introduced to a dataset that reflects what economists would typically find in a Labour Force Survey (LFS). This dataset contains information on earnings, hours worked, education, age, and other characteristics of workers in the UK.
+
+Take some time to explore the dataset.
+- What are the key variables?
+- Can you find information on:
+  - Weekly or annual earnings?
+  - Age and gender?
+  - Education level?
+
+Notes:
+[Write here]
+
+
+--------------------------------------------
+Task 4: What Does the Average Worker Earn?
+--------------------------------------------
+Objective: Reflect on average earnings and what they represent.
+
+Instructions:
+Look up the average annual earnings in the dataset.
+
+Now reflect:
+a) What does this number mean? What does it capture and what might it miss?
+b) Would you be happy living on that income? Why or why not?
+c) Is this a useful benchmark for thinking about your future career? Explain.
+
+Your Responses:
+[Write here]
+
+
+--------------------------------------------
+Task 5: What Influences How Much People Earn?
+--------------------------------------------
+Objective: Develop hypotheses about the factors that affect earnings.
+
+Instructions:
+a) Make a list of characteristics you think influence how much people earn.
+b) For each factor, write a short note on why it might matter.
+c) Think about how to test your ideas. What graphs or tables could you make?
+
+Your Hypotheses & Ideas:
+[Write here]
+
+
+--------------------------------------------
+Task 6: Test Your Ideas in the Data
+--------------------------------------------
+Objective: Explore relationships in the data.
+
+Instructions:
+Using charts or tables, examine how earnings vary by:
+- Age
+- Education
+- Gender
+- Hours worked
+
+What patterns do you observe?
+Were your predictions correct?
+How might you explain what you see?
+
+Your Observations:
+[Write here]
+
+
+--------------------------------------------
+Task 7: Why Are You Going to University?
+--------------------------------------------
+Objective: Link personal choices to economic models of decision-making.
+
+Instructions:
+a) Think carefully about your decision to attend university. What motivated it? What did you give up?
+b) Economists talk about “constrained decision making”. What constraints (financial, personal, social) shaped your choice?
+c) How important was future earnings in your thinking?
+
+Reflection:
+[Write here]
+
+
+--------------------------------------------
+Task 8: Returns to Education
+--------------------------------------------
+Objective: Understand how economists estimate the financial value of education.
+
+Instructions:
+a) Use the data to compare average earnings of people with and without university degrees.
+b) Is this a fair comparison? What other factors might influence the difference?
+c) How might we improve the comparison (e.g., control for age, hours, region)?
+
+Analysis:
+[Write here]
+
+
+--------------------------------------------
+Task 9: Inequality in Earnings
+--------------------------------------------
+Objective: Visualize and reflect on earnings inequality.
+
+Instructions:
+a) How could we measure inequality? (e.g., percentiles, Gini coefficient)
+b) Create a chart (such as a histogram or Lorenz curve) to show the spread of earnings.
+c) Reflect:
+   - What do you notice?
+   - Is inequality fair?
+   - Should those who invest in education be rewarded?
+d) What could governments do to reduce inequality? What tools do they have?
+
+Your Insights:
+[Write here]
+
+
+--------------------------------------------
+Task 10: What Is the Minimum Wage?
+--------------------------------------------
+Objective: Learn how minimum wages are set and why they matter.
+
+Instructions:
+a) Research how the UK minimum wage has changed over the last 15 years. Make a timeline or graph.
+b) What is the current level? How many people does it affect?
+c) Why might governments raise the minimum wage?
+
+Summary:
+[Write here]
+
+
+--------------------------------------------
+Task 11: Who Earns the Minimum Wage?
+--------------------------------------------
+Objective: Use data to understand which workers are affected.
+
+Instructions:
+a) Use the data to identify minimum wage earners.
+b) Describe their characteristics:
+   - Age
+   - Gender
+   - Education
+   - Job type (industry, occupation)
+
+Profile of Minimum Wage Workers:
+[Write here]
+
+
+--------------------------------------------
+Task 12: Effects of the Minimum Wage
+--------------------------------------------
+Objective: Examine economic consequences of the policy.
+
+Instructions:
+a) Think like an economist. How would:
+   - A firm respond to a higher minimum wage?
+   - A worker respond?
+b) Look at earnings before and after a known minimum wage increase. Did earnings rise?
+c) What else might firms adjust (besides wages)? Think about hours, hiring, prices.
+
+Your Analysis:
+[Write here]
+
+
+--------------------------------------------
+Task 13: Summing Up
+--------------------------------------------
+Objective: Reflect on what you've learned and communicate your findings.
+
+Instructions:
+Prepare a short summary or presentation:
+- What was your research question?
+- What did the data show?
+- What surprised you?
+- What would you explore next?
+
+Use slides, a written report, or a short verbal summary.
+
+Presentation Notes:
+[Write here]
+
+--------------------------------------------
+Further Resources
+--------------------------------------------
+Here are some ways you can keep exploring economics:
+- Institute for Fiscal Studies blog
+- CORE Econ’s “Doing Economics” projects
+- Summer schools and online lectures from universities
