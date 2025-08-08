@@ -25,7 +25,7 @@ Work experience
 
 * 2022: PhD Economist Intern, Amazon
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
