@@ -18,9 +18,6 @@ Education
 Work experience
 ======
 * 2025-Date: Consultant (previously PhD Economist Intern), OECD 
-  <!-- * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users -->
 
 * 2021-Date: Research Scholar (previously PhD Scholar), IFS
 
