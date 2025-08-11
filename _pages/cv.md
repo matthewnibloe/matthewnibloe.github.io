@@ -25,6 +25,8 @@ Work experience
 
 * 2022: PhD Economist Intern, Amazon
 
+* 2020: Research Assistant for Prof. Lars Nesheim
+
 Research
 ======
   <ul>{% for post in site.publications reversed %}
@@ -44,7 +46,9 @@ Awards
 
 * 2022: UCL Economics Best Final Year Undergraduate Teaching Award
 
-* 2021: CReAM Funding 
+* 2021: CReAM Funding
+
+
 
 
   
