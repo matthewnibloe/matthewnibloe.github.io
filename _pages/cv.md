@@ -35,10 +35,8 @@ Awards
 ======
 
 * 2025: UCL Stone Centre Funding
-  * £10k Research grant to facilitate my work on inequality 
 
-* 2024: IFS Enrichment Scholar
-  * 6 month fully funded secondment to IFS funded by ESRC to facilitate my research
+* 2024: IFS PhD Scholar
 
 * 2024: UCL Student Choice Award for Inspiring Teaching Delivery (Honour Roll)
 
