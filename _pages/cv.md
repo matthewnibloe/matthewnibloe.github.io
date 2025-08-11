@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Economics, University College London, 2026 (Expected)
 * M.S. in Economics, University College London, 2020
-* B.S. in in Economics, University of Nottingham, 2019
+* B.S. in Economics, University of Nottingham, 2019
 
 Work experience
 ======
