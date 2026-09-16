@@ -7,18 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at [UCL](https://www.ucl.ac.uk/economics/), specialising in applied topics in labour economics and fiscal policy.
+I am an applied economics PhD candidate at [UCL](https://www.ucl.ac.uk/economics/).
 
-My current research focuses on the distributional and productivity effects of public sector pay restraint.
+My research sits at the intersection of labour and public economics. I use quantitative methods to study the roles of firms, governments, and skills in shaping inequalities across people and places.
 
-I am affiliated with the [Institute for Fiscal Studies (IFS)](https://ifs.org.uk/), [RFBerlin](https://www.rfberlin.com/), the [UCL Stone Centre](https://www.stone-econ.org/), and the [OECD](https://www.oecd.org/en/about/projects/linkeed-200.html).
+I am affiliated with the [Institute for Fiscal Studies (IFS)](https://ifs.org.uk/), [RFBerlin](https://www.rfberlin.com/), and the [UCL Stone Centre](https://www.stone-econ.org/). I am also a consultant at the [OECD](https://www.oecd.org/en/about/projects/linkeed-200.html) and previously interned as an economist at [Amazon](https://www.amazon.jobs/content/en/job-categories/economics).
 
 You can find my CV [here](https://matthewnibloe.github.io/files/cv.pdf).
 
-News
+<!--  My current research focuses on the distributional and productivity effects of public sector pay restraint. -->
+
+Working Papers
 ======
 
-<strong style="color: red;">New working paper!</strong> Levelling Down: The Distributional Consequences of Public Pay Caps. Find it here: [IFS](https://ifs.org.uk/publications/levelling-down-distributional-consequences-public-pay-caps), [RFBerlin](https://www.rfberlin.com/network-paper/levelling-down-the-distributional-consequences-of-public-pay-caps/), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5381457)
+**The Distributional Consequences of Public Pay Caps.** Find it here: [IFS](https://ifs.org.uk/publications/levelling-down-distributional-consequences-public-pay-caps), [RFBerlin](https://www.rfberlin.com/network-paper/levelling-down-the-distributional-consequences-of-public-pay-caps/), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5381457)
+
+<details>
+  <summary>Abstract</summary>
+  <p>This paper studies how progressive public sector pay caps shape the overall wage distribution, conditional inequalities and workforce composition. Between 2010 and 2017, nominal wage growth in the UK public sector was capped at 1% for all workers earning above £21,000—the median annual salary in 2010. Utilising administrative data, we show that the cap reduced the return to observable characteristics in the public sector, coinciding with an 80% reduction in the public-private sector wage premium. Our counterfactuals suggest that the overall hourly P90-P50 ratio would have been 3.5 percentage points higher had public sector returns to characteristics moved in line with the private sector. Since public workers are disproportionately female and concentrated in the North of Britain, the policy substantially increased both the gender pay gap and the North-South divide. Over the same period, the public sector experienced relative declines in the share of degree-educated workers, 26-55 year-old prime-age workers, and high-skilled managers, further suppressing wage growth.</p>
+</details>
+
+
 
 
 
