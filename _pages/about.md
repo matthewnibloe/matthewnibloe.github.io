@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied economics PhD candidate at [UCL](https://www.ucl.ac.uk/economics/).
+I am a PhD candidate in applied economics at [UCL](https://www.ucl.ac.uk/economics/).
 
 My research sits at the intersection of labour and public economics. I use quantitative methods to study the roles of firms, governments, and skills in shaping inequalities across people and places.
 
@@ -20,14 +20,57 @@ You can find my CV [here](https://matthewnibloe.github.io/files/cv.pdf).
 Working Papers
 ======
 
-**The Distributional Consequences of Public Pay Caps.** Find it here: [IFS](https://ifs.org.uk/publications/levelling-down-distributional-consequences-public-pay-caps), [RFBerlin](https://www.rfberlin.com/network-paper/levelling-down-the-distributional-consequences-of-public-pay-caps/), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5381457)
+**The Labour Market Consequences of Trade Disintegration: Evidence from Brexit.**
+
+_With [Aaron Tang](https://www.linkedin.com/in/aaron-tang-econ/) and [Jan Knuf](https://janknuf.com/)._
+
+Draft available soon.
+
+Presented at the [Econometric Society Asia Meeting 2026](https://www.econometricsociety.org/regional-activities/schedule/2026/06/19/2026-Asia-Meeting-China-Hong-Kong).
+
+**The Distributional Consequences of Public Pay Caps.** (submitted)
+
+_Solo authored._
+
+[Draft](https://ifs.org.uk/publications/levelling-down-distributional-consequences-public-pay-caps)
 
 <details>
   <summary>Abstract</summary>
-  <p>This paper studies how progressive public sector pay caps shape the overall wage distribution, conditional inequalities and workforce composition. Between 2010 and 2017, nominal wage growth in the UK public sector was capped at 1% for all workers earning above £21,000—the median annual salary in 2010. Utilising administrative data, we show that the cap reduced the return to observable characteristics in the public sector, coinciding with an 80% reduction in the public-private sector wage premium. Our counterfactuals suggest that the overall hourly P90-P50 ratio would have been 3.5 percentage points higher had public sector returns to characteristics moved in line with the private sector. Since public workers are disproportionately female and concentrated in the North of Britain, the policy substantially increased both the gender pay gap and the North-South divide. Over the same period, the public sector experienced relative declines in the share of degree-educated workers, 26-55 year-old prime-age workers, and high-skilled managers, further suppressing wage growth.</p>
+  <p>We study the distributional consequences of a common post-financial-crisis policy: public-sector pay caps. In the UK, caps limited nominal pay growth to 1% from 2010 to 2017 for public workers earning above £21,000 (15% of employees). Using counterfactual distribution methods, we find larger public wage losses at P90 than P50. The caps reduced the overall P90–P50 gap by 2.3pp by 2019, fully accounting for the observed decline in inequality, while widening gender and regional wage gaps by 0.9pp and 0.4pp. The contemporaneous decline in public-sector employment approximately doubled regional and gender effects to 1.9pp (17.5%) and 0.7pp (9.9%).</p>
 </details>
 
+Presented at [SOLE 2026](https://www.sole-jole.org/), [ESWC 2025](https://www.eswc2025.org/), [AASLE 2024](https://www.aasle.org/).
 
+**Low-wage Work and Labour Market Policies: A European Cross-country Study.** (submitted)
+
+_With [Trine Schack](https://www.au.dk/en/tschack@econ.au.dk), [Jordy Meekes](https://sites.google.com/site/jmeekes/), [César Barreto](https://sites.google.com/view/cesarbarreto/home), [Stéphane Carcillo](https://sites.google.com/site/stephanecarcillo/), [Jonas Fluchtmann](https://sites.google.com/view/jfluchtmann), [Alexander Hijzen](https://www.iza.org/person/1300/alexander-hijzen), [Benjamin Lochner](https://sites.google.com/view/benjaminlochner/), and [Rune Vejlin](https://sites.google.com/site/econrunevejlin/home)._
+
+[Draft](https://ifs.org.uk/publications/low-wage-work-and-labour-market-policies-european-cross-country-study)
+
+<details>
+  <summary>Abstract</summary>
+  <p>We study the incidence, sources, and dynamics of low-wage employment using harmonised linked employer-employee administrative data from Denmark, France, Germany, the Netherlands, Portugal, and the United Kingdom. We define low-wage employment relative to the country-specific median hourly wage and examine how worker characteristics, firm-specific wage premia, wage progression, and labour market institutions shape outcomes at different parts of the lower wage distribution. Three main findings emerge. First, worker characteristics account for most of the wage gap facing low-wage workers, though firm-specific wage premia matter too, especially at the very bottom, where they are around half as large as the worker component. These firm premia reflect both sorting across industries and pay differences across firms within industries. Second, low-wage employment is at least partly transitory, as workers at the bottom see faster subsequent wage growth and change firms more often. Third, minimum wages and marginal effective tax rates show limited systematic association with wage growth or job-to-job mobility, though higher minimum wages are linked to a smaller share of workers below 70% of the median. These patterns are broadly similar across countries and point to the joint importance of worker skills and access to higher-paying firms for improving low-wage workers’ prospects.</p>
+</details>
+
+**On the Right Trajectory: Early Skills, Environments and Lifecycle Profiles of Earnings and Health.**
+
+_With [Pedro Carneiro](https://www.homepages.ucl.ac.uk/~uctppca/) and [Sarah Cattan](https://sites.google.com/site/sjcattan/home)._
+
+<details>
+  <summary>Abstract</summary>
+  <p>We employ machine learning techniques to study lifetime trajectories of wages and health in the UK. We establish the presence of deep and persistent multidimensional inequality that is exacerbated over the lifecycle. Particularly, we highlight the presence of a large group of deprived men and women who rarely enter employment and consistently score the lowest among their peers on common measures of mental and physical health. Trajectories are strongly correlated with cognitive, internalising and externalising skills in childhood, with associations generally strongest for skills measured later in childhood, particularly internalising skills at age 16. Childhood environments are also important: greater parental time and socioeconomic status are associated with a lower probability of deprivation, whereas hospitalisation at age 11 is associated with a higher probability of deprivation over the lifecycle. A flexible neural network that takes skills, environments and basic demographic factors as inputs can accurately predict deprivation, providing policymakers with a tool for targeted implementation.</p>
+</details>
+
+Works in Progress
+======
+
+**Technological Innovations and Worker Skills.**
+
+_With [Joern Onken](https://joernonken.com/) and [Yilun (Allen) Shen](https://www.linkedin.com/in/allen-shen/)._
+
+**Capping Student Outcomes: The Long-Term Consequences of Teacher Pay Restraint.**
+
+Draft available soon.
 
 
 
