@@ -22,7 +22,7 @@ repository               : "matthewnibloe/matthewnibloe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "website_profile_pic.jpg"
+  avatar           : "website_profile_headshot_final.png"
   name             : # ""
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
@@ -30,6 +30,7 @@ author:
   employer         : "University College London"
   uri              : # "https://profiles.ucl.ac.uk/80281-matthew-nibloe/about"
   email            : "matthew.nibloe.19@ucl.ac.uk" 
+  cv               : "/files/cv.pdf"
 
   # Academic websites
   academia         : # URL 

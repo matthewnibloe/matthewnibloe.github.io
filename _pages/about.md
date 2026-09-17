@@ -1,17 +1,20 @@
 ---
 permalink: /
-title: "Biography"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Biography
+======
+
 I am a PhD candidate in applied economics at [UCL](https://www.ucl.ac.uk/economics/).
 
-My research sits at the intersection of labour and public economics. I use quantitative methods to study the roles of firms, governments, and skills in shaping inequalities across people and places.
+My research sits at the intersection of labour and public economics. I use quantitative methods to study the roles of firms, governments, and skills in shaping inequalities across people and places. My research has been featured in the [Financial Times](https://www.ft.com/content/3df3b02a-6998-40f6-95a2-5b39248629b2?syn-25a6b1a6=1).
 
-I am affiliated with the [Institute for Fiscal Studies (IFS)](https://ifs.org.uk/), [RFBerlin](https://www.rfberlin.com/), and the [UCL Stone Centre](https://www.stone-econ.org/). I am also a consultant at the [OECD](https://www.oecd.org/en/about/projects/linkeed-200.html) and previously interned as an economist at [Amazon](https://www.amazon.jobs/content/en/job-categories/economics).
+I am affiliated with the [Institute for Fiscal Studies (IFS)](https://ifs.org.uk/), [RFBerlin](https://www.rfberlin.com/), and the [UCL Stone Centre](https://www.stone-econ.org/). I am also a consultant at the [OECD](https://www.oecd.org/en/about/projects/linkeed-200.html) and previously interned as an economist at [Amazon](https://www.amazon.jobs/content/en/job-categories/economics). 
 
 You can find my CV [here](https://matthewnibloe.github.io/files/cv.pdf).
 
@@ -20,57 +23,64 @@ You can find my CV [here](https://matthewnibloe.github.io/files/cv.pdf).
 Working Papers
 ======
 
-**The Labour Market Consequences of Trade Disintegration: Evidence from Brexit.**
-
-_With [Aaron Tang](https://www.linkedin.com/in/aaron-tang-econ/) and [Jan Knuf](https://janknuf.com/)._
-
-Draft available soon.
-
+**[JMP] The Labour Market Consequences of Trade Disintegration: Evidence from Brexit**<br>
+_With [Aaron Tang](https://www.linkedin.com/in/aaron-tang-econ/) and [Jan Knuf](https://janknuf.com/)._<br>
 Presented at the [Econometric Society Asia Meeting 2026](https://www.econometricsociety.org/regional-activities/schedule/2026/06/19/2026-Asia-Meeting-China-Hong-Kong).
 
-**The Distributional Consequences of Public Pay Caps.** (submitted)
+<!-- <div style="height: 0.75rem;"></div> -->
 
-_Solo authored._
-
-[Draft](https://ifs.org.uk/publications/levelling-down-distributional-consequences-public-pay-caps)
-
+**The Distributional Consequences of Public Pay Caps** | [Draft](https://ifs.org.uk/publications/levelling-down-distributional-consequences-public-pay-caps) (submitted)  <br>
+Presented at the [Prime Minister's Office](https://www.gov.uk/government/organisations/cabinet-office), [SOLE 2026](https://www.sole-jole.org/), [ESWC 2025](https://www.eswc2025.org/), [AASLE 2024](https://www.aasle.org/).<br>
+{: style="margin-bottom: 0;" }
 <details>
   <summary>Abstract</summary>
-  <p>We study the distributional consequences of a common post-financial-crisis policy: public-sector pay caps. In the UK, caps limited nominal pay growth to 1% from 2010 to 2017 for public workers earning above £21,000 (15% of employees). Using counterfactual distribution methods, we find larger public wage losses at P90 than P50. The caps reduced the overall P90–P50 gap by 2.3pp by 2019, fully accounting for the observed decline in inequality, while widening gender and regional wage gaps by 0.9pp and 0.4pp. The contemporaneous decline in public-sector employment approximately doubled regional and gender effects to 1.9pp (17.5%) and 0.7pp (9.9%).</p>
+  <p style="text-align: justify;">We study the distributional consequences of a common post-financial-crisis policy: public-sector pay caps. In the UK, caps limited nominal pay growth to 1% from 2010 to 2017 for public workers earning above £21,000 (15% of employees). Using counterfactual distribution methods, we find larger public wage losses at P90 than P50. The caps reduced the overall P90–P50 gap by 2.3pp by 2019, fully accounting for the observed decline in inequality, while widening gender and regional wage gaps by 0.9pp and 0.4pp. The contemporaneous decline in public-sector employment approximately doubled regional and gender effects to 1.9pp (17.5%) and 0.7pp (9.9%).</p>
 </details>
 
-Presented at [SOLE 2026](https://www.sole-jole.org/), [ESWC 2025](https://www.eswc2025.org/), [AASLE 2024](https://www.aasle.org/).
+<div style="height: 0.75rem;"></div>
 
-**Low-wage Work and Labour Market Policies: A European Cross-country Study.** (submitted)
-
-_With [Trine Schack](https://www.au.dk/en/tschack@econ.au.dk), [Jordy Meekes](https://sites.google.com/site/jmeekes/), [César Barreto](https://sites.google.com/view/cesarbarreto/home), [Stéphane Carcillo](https://sites.google.com/site/stephanecarcillo/), [Jonas Fluchtmann](https://sites.google.com/view/jfluchtmann), [Alexander Hijzen](https://www.iza.org/person/1300/alexander-hijzen), [Benjamin Lochner](https://sites.google.com/view/benjaminlochner/), and [Rune Vejlin](https://sites.google.com/site/econrunevejlin/home)._
-
-[Draft](https://ifs.org.uk/publications/low-wage-work-and-labour-market-policies-european-cross-country-study)
-
+**Low-wage Work and Labour Market Policies: A European Cross-country Study** | [Draft](https://ifs.org.uk/publications/low-wage-work-and-labour-market-policies-european-cross-country-study)
+(submitted)<br>
+_With [T. Schack](https://www.au.dk/en/tschack@econ.au.dk), [J. Meekes](https://sites.google.com/site/jmeekes/), [C. Barreto](https://sites.google.com/view/cesarbarreto/home), [S. Carcillo](https://sites.google.com/site/stephanecarcillo/), [J. Fluchtmann](https://sites.google.com/view/jfluchtmann), [A. Hijzen](https://www.iza.org/person/1300/alexander-hijzen), [B. Lochner](https://sites.google.com/view/benjaminlochner/), and [R. Vejlin](https://sites.google.com/site/econrunevejlin/home)._<br>
+{: style="margin-bottom: 0;" }
 <details>
   <summary>Abstract</summary>
-  <p>We study the incidence, sources, and dynamics of low-wage employment using harmonised linked employer-employee administrative data from Denmark, France, Germany, the Netherlands, Portugal, and the United Kingdom. We define low-wage employment relative to the country-specific median hourly wage and examine how worker characteristics, firm-specific wage premia, wage progression, and labour market institutions shape outcomes at different parts of the lower wage distribution. Three main findings emerge. First, worker characteristics account for most of the wage gap facing low-wage workers, though firm-specific wage premia matter too, especially at the very bottom, where they are around half as large as the worker component. These firm premia reflect both sorting across industries and pay differences across firms within industries. Second, low-wage employment is at least partly transitory, as workers at the bottom see faster subsequent wage growth and change firms more often. Third, minimum wages and marginal effective tax rates show limited systematic association with wage growth or job-to-job mobility, though higher minimum wages are linked to a smaller share of workers below 70% of the median. These patterns are broadly similar across countries and point to the joint importance of worker skills and access to higher-paying firms for improving low-wage workers’ prospects.</p>
+  <p style="text-align: justify;">We study the incidence, sources, and dynamics of low-wage employment using harmonised linked employer-employee administrative data from Denmark, France, Germany, the Netherlands, Portugal, and the United Kingdom. We define low-wage employment relative to the country-specific median hourly wage and examine how worker characteristics, firm-specific wage premia, wage progression, and labour market institutions shape outcomes at different parts of the lower wage distribution. Three main findings emerge. First, worker characteristics account for most of the wage gap facing low-wage workers, though firm-specific wage premia matter too, especially at the very bottom, where they are around half as large as the worker component. These firm premia reflect both sorting across industries and pay differences across firms within industries. Second, low-wage employment is at least partly transitory, as workers at the bottom see faster subsequent wage growth and change firms more often. Third, minimum wages and marginal effective tax rates show limited systematic association with wage growth or job-to-job mobility, though higher minimum wages are linked to a smaller share of workers below 70% of the median. These patterns are broadly similar across countries and point to the joint importance of worker skills and access to higher-paying firms for improving low-wage workers’ prospects.</p>
 </details>
 
-**On the Right Trajectory: Early Skills, Environments and Lifecycle Profiles of Earnings and Health.**
+<div style="height: 0.75rem;"></div>
 
+**On the Right Trajectory: Early Skills, Environments and Lifecycle Profiles of Earnings and Health**<br>
 _With [Pedro Carneiro](https://www.homepages.ucl.ac.uk/~uctppca/) and [Sarah Cattan](https://sites.google.com/site/sjcattan/home)._
-
+{: style="margin-bottom: 0;" }
 <details>
   <summary>Abstract</summary>
-  <p>We employ machine learning techniques to study lifetime trajectories of wages and health in the UK. We establish the presence of deep and persistent multidimensional inequality that is exacerbated over the lifecycle. Particularly, we highlight the presence of a large group of deprived men and women who rarely enter employment and consistently score the lowest among their peers on common measures of mental and physical health. Trajectories are strongly correlated with cognitive, internalising and externalising skills in childhood, with associations generally strongest for skills measured later in childhood, particularly internalising skills at age 16. Childhood environments are also important: greater parental time and socioeconomic status are associated with a lower probability of deprivation, whereas hospitalisation at age 11 is associated with a higher probability of deprivation over the lifecycle. A flexible neural network that takes skills, environments and basic demographic factors as inputs can accurately predict deprivation, providing policymakers with a tool for targeted implementation.</p>
+  <p style="text-align: justify;">We employ machine learning techniques to study lifetime trajectories of wages and health in the UK. We establish the presence of deep and persistent multidimensional inequality that is exacerbated over the lifecycle. Particularly, we highlight the presence of a large group of deprived men and women who rarely enter employment and consistently score the lowest among their peers on common measures of mental and physical health. Trajectories are strongly correlated with cognitive, internalising and externalising skills in childhood, with associations generally strongest for skills measured later in childhood, particularly internalising skills at age 16. Childhood environments are also important: greater parental time and socioeconomic status are associated with a lower probability of deprivation, whereas hospitalisation at age 11 is associated with a higher probability of deprivation over the lifecycle. A flexible neural network that takes skills, environments and basic demographic factors as inputs can accurately predict deprivation, providing policymakers with a tool for targeted implementation.</p>
 </details>
+
+<div style="height: 1.5rem;"></div>
 
 Works in Progress
 ======
 
-**Technological Innovations and Worker Skills.**
-
+**Technological Innovations and Worker Skills**<br>
 _With [Joern Onken](https://joernonken.com/) and [Yilun (Allen) Shen](https://www.linkedin.com/in/allen-shen/)._
 
-**Capping Student Outcomes: The Long-Term Consequences of Teacher Pay Restraint.**
+<!-- <div style="height: 0.75rem;"></div> -->
 
-Draft available soon.
+**Capping Student Outcomes: The Long-Term Consequences of Teacher Pay Restraint**<br>
+
+<div style="height: 1.5rem;"></div>
+
+Policy
+======
+
+**Who Enters the Public Sector?** | IFS | [Comment](https://ifs.org.uk/articles/who-enters-public-sector) | [FT coverage](https://www.ft.com/content/3df3b02a-6998-40f6-95a2-5b39248629b2?syn-25a6b1a6=1)<br>
+_With [Clara von Bismarck Osten](https://claravobi.github.io/)._
+
+**Economic Lessons from 25 Years of Devolution** \| PolicyWISE & Resolution Foundation \| [Report](https://www.policywise.org.uk/sites/www.policywise.org.uk/files/Conference%20report%20-%20.pdf)<br>
+_With [Dewi Knight](https://profiles.open.ac.uk/dewi-knight) and [Catherine May](https://www.linkedin.com/in/catherine-may-830118a/)._<br>
+
 
 
 

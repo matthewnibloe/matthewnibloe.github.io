@@ -226,12 +226,24 @@
     }
 
     #theme-toggle {
+      position: absolute;
+      top: 50%;
+      right: 0;
+      transform: translateY(-50%);
+
       a {
         width: 25px;
         display: flex;
         justify-content: center;
         cursor: pointer;
       }
+    }
+
+    .masthead__cv-link {
+      position: absolute;
+      top: 50%;
+      right: 45px;
+      transform: translateY(-50%);
     }
 
     a {
