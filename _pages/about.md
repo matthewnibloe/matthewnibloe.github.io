@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
+navy_links: true
 redirect_from: 
   - /about/
   - /about.html
@@ -24,7 +25,7 @@ Working Papers
 ======
 
 **[JMP] The Labour Market Consequences of Trade Disintegration: Evidence from Brexit**<br>
-_With [Aaron Tang](https://www.linkedin.com/in/aaron-tang-econ/) and [Jan Knuf](https://janknuf.com/)._<br>
+_With [A. Tang](https://www.linkedin.com/in/aaron-tang-econ/) and [J. Knuf](https://janknuf.com/)._<br>
 Presented at the [Econometric Society Asia Meeting 2026](https://www.econometricsociety.org/regional-activities/schedule/2026/06/19/2026-Asia-Meeting-China-Hong-Kong).
 
 <!-- <div style="height: 0.75rem;"></div> -->
@@ -51,7 +52,7 @@ _With [T. Schack](https://www.au.dk/en/tschack@econ.au.dk), [J. Meekes](https://
 <div style="height: 0.75rem;"></div>
 
 **On the Right Trajectory: Early Skills, Environments and Lifecycle Profiles of Earnings and Health**<br>
-_With [Pedro Carneiro](https://www.homepages.ucl.ac.uk/~uctppca/) and [Sarah Cattan](https://sites.google.com/site/sjcattan/home)._
+_With [P. Carneiro](https://www.homepages.ucl.ac.uk/~uctppca/) and [S. Cattan](https://sites.google.com/site/sjcattan/home)._
 {: style="margin-bottom: 0;" }
 <details>
   <summary>Abstract</summary>
@@ -64,7 +65,7 @@ Works in Progress
 ======
 
 **Technological Innovations and Worker Skills**<br>
-_With [Joern Onken](https://joernonken.com/) and [Yilun (Allen) Shen](https://www.linkedin.com/in/allen-shen/)._
+_With [J. Onken](https://joernonken.com/) and [Y. Shen](https://www.linkedin.com/in/allen-shen/)._
 
 <!-- <div style="height: 0.75rem;"></div> -->
 
@@ -76,10 +77,10 @@ Policy
 ======
 
 **Who Enters the Public Sector?** | IFS | [Comment](https://ifs.org.uk/articles/who-enters-public-sector) | [FT coverage](https://www.ft.com/content/3df3b02a-6998-40f6-95a2-5b39248629b2?syn-25a6b1a6=1)<br>
-_With [Clara von Bismarck Osten](https://claravobi.github.io/)._
+_With [C. von Bismarck Osten](https://claravobi.github.io/)._
 
 **Economic Lessons from 25 Years of Devolution** \| PolicyWISE & Resolution Foundation \| [Report](https://www.policywise.org.uk/sites/www.policywise.org.uk/files/Conference%20report%20-%20.pdf)<br>
-_With [Dewi Knight](https://profiles.open.ac.uk/dewi-knight) and [Catherine May](https://www.linkedin.com/in/catherine-may-830118a/)._<br>
+_With [D. Knight](https://profiles.open.ac.uk/dewi-knight) and [C. May](https://www.linkedin.com/in/catherine-may-830118a/)._<br>
 
 
 

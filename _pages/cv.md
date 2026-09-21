@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2025-Date: Consultant (previously PhD Economist Intern), OECD 
+* 2025-Date: Consultant (previously PhD Economist Intern), OECD — Paris, France
 
 * 2021-Date: Research Scholar (previously PhD Scholar), IFS
 
@@ -58,4 +58,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
