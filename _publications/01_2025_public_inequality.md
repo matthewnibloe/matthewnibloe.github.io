@@ -7,9 +7,9 @@ excerpt: 'This paper studies how progressive public sector pay caps shape the ov
 date: 2025-08-07
 venue: 'Working Paper'
 slidesurl: 'http://matthewnibloe.github.io/files/01_public_inequality_pres.pdf'
-paperurl: 'http://matthewnibloe.github.io/files/01_public_inequality_paper.pdf'
+paperurl: 'https://www.mattnibloe.com/files/public_inequality.pdf'
 bibtexurl: 'http://matthewnibloe.github.io/files/01_public_inequality_bib.txt'
-citation: 'Nibloe, M. (2025). Levelling down: the distributional consequences of public pay caps. 25/27. London: Institute for Fiscal Studies. Available at: https://ifs.org.uk/publications/levelling-down-distributional-consequences-public-pay-caps.'
+citation: 'Nibloe, M. (2025). Levelling down: the distributional consequences of public pay caps. 25/27. London: Institute for Fiscal Studies. Available at: https://www.mattnibloe.com/files/public_inequality.pdf.'
 tags:
   - public sector
   - inequality
