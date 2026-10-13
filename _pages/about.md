@@ -21,16 +21,21 @@ You can find my CV [here](https://matthewnibloe.github.io/files/cv.pdf).
 
 <!--  My current research focuses on the distributional and productivity effects of public sector pay restraint. -->
 
-Working Papers
+<div style="height: 0.75rem;"></div>
+
+Job Market Paper
 ======
 
-**[JMP] The Labour Market Consequences of Trade Disintegration: Evidence from Brexit**<br>
+**Trade Disintegration and Local Labour Markets: Evidence from Brexit**<br>
 _With [A. Tang](https://www.linkedin.com/in/aaron-tang-econ/) and [J. Knuf](https://janknuf.com/)._<br>
 Presented at the [Econometric Society Asia Meeting 2026](https://www.econometricsociety.org/regional-activities/schedule/2026/06/19/2026-Asia-Meeting-China-Hong-Kong).
 
-<!-- <div style="height: 0.75rem;"></div> -->
+<div style="height: 0.75rem;"></div>
 
-**The Distributional Consequences of Public Pay Caps** | [Draft](/files/public_inequality.pdf) (submitted)  <br>
+Working Papers
+======
+
+**The Distributional Consequences of Public Pay Caps** | [Updated draft](/files/public_inequality.pdf) (submitted)  <br>
 Presented at the [Prime Minister's Office](https://www.gov.uk/government/organisations/cabinet-office), [SOLE 2026](https://www.sole-jole.org/), [ESWC 2025](https://www.eswc2025.org/), [AASLE 2024](https://www.aasle.org/).<br>
 {: style="margin-bottom: 0;" }
 <details>
@@ -59,7 +64,7 @@ _With [P. Carneiro](https://www.homepages.ucl.ac.uk/~uctppca/) and [S. Cattan](h
   <p style="text-align: justify;">We employ machine learning techniques to study lifetime trajectories of wages and health in the UK. We establish the presence of deep and persistent multidimensional inequality that is exacerbated over the lifecycle. Particularly, we highlight the presence of a large group of deprived men and women who rarely enter employment and consistently score the lowest among their peers on common measures of mental and physical health. Trajectories are strongly correlated with cognitive, internalising and externalising skills in childhood, with associations generally strongest for skills measured later in childhood, particularly internalising skills at age 16. Childhood environments are also important: greater parental time and socioeconomic status are associated with a lower probability of deprivation, whereas hospitalisation at age 11 is associated with a higher probability of deprivation over the lifecycle. A flexible neural network that takes skills, environments and basic demographic factors as inputs can accurately predict deprivation, providing policymakers with a tool for targeted implementation.</p>
 </details>
 
-<div style="height: 1.5rem;"></div>
+<div style="height: 0.75rem;"></div>
 
 Works in Progress
 ======
@@ -71,7 +76,7 @@ _With [J. Onken](https://joernonken.com/) and [Y. Shen](https://www.linkedin.com
 
 **Capping Student Outcomes: The Long-Term Consequences of Teacher Pay Restraint**<br>
 
-<div style="height: 1.5rem;"></div>
+<div style="height: 0.75rem;"></div>
 
 Policy
 ======
