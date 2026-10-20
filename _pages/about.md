@@ -29,6 +29,11 @@ Job Market Paper
 **Trade Disintegration and Local Labour Markets: Evidence from Brexit**<br>
 _With [A. Tang](https://www.linkedin.com/in/aaron-tang-econ/) and [J. Knuf](https://janknuf.com/)._<br>
 Presented at the [Econometric Society Asia Meeting 2026](https://www.econometricsociety.org/regional-activities/schedule/2026/06/19/2026-Asia-Meeting-China-Hong-Kong).
+{: style="margin-bottom: 0;" }
+<details>
+  <summary>Abstract</summary>
+  <p style="text-align: justify;">We analyse how local labour markets responded to the introduction of bilateral non-tariff trade barriers following UK's exit from the EU in 2021. We develop a unified framework that jointly captures exposure to EU supply-chain disruption, reduced export market access, and greater domestic protection from import competition. Regional earnings losses were driven primarily by lower wages rather than reduced employment, with a one-standard-deviation increase in supply-chain exposure reducing wages by 4% by 2024. We find little evidence that reduced import competition benefited workers, while the adverse effects of diminished EU export market access were largely mitigated by reorientation toward non-EU countries. Exploiting a decomposition of regional effects into their firm-level components using linked employer–employee data, we show that, despite limited regional employment effects, firms exposed to Brexit through their supply chains experienced substantial employment declines. These losses were offset by the reallocation of labour toward smaller, less productive firms with limited direct exposure.</p>
+</details>
 
 <div style="height: 0.75rem;"></div>
 
@@ -56,7 +61,7 @@ _With [T. Schack](https://www.au.dk/en/tschack@econ.au.dk), [J. Meekes](https://
 
 <div style="height: 0.75rem;"></div>
 
-**On the Right Trajectory: Early Skills, Environments and Lifecycle Profiles of Earnings and Health**<br>
+**Early Skills, Environments and Lifecycle Profiles of Earnings and Health**<br>
 _With [P. Carneiro](https://www.homepages.ucl.ac.uk/~uctppca/) and [S. Cattan](https://sites.google.com/site/sjcattan/home)._
 {: style="margin-bottom: 0;" }
 <details>
