@@ -71,13 +71,18 @@ _With [P. Carneiro](https://www.homepages.ucl.ac.uk/~uctppca/) and [S. Cattan](h
 
 <div style="height: 0.75rem;"></div>
 
+**Technological Innovations and Worker Skills** | [Draft](https://joernonken.com/files/NNOS_Worker_Skills.pdf)<br>
+_With [J. Onken](https://joernonken.com/) and [Y. Shen](https://www.linkedin.com/in/allen-shen/)._
+{: style="margin-bottom: 0;" }
+<details>
+  <summary>Abstract</summary>
+  <p style="text-align: justify;">This paper studies how workers respond to skill-specific technological innovations through investment in training. We construct a novel measure of technological exposure by combining patent texts with O*NET skill descriptors using natural language processing. Linking this measure to UK longitudinal worker data, we find that greater technological exposure increases hourly wages, particularly among highly educated workers and those in non-routine occupations. Exposure also raises participation in training, especially training for future employment opportunities, and increases voluntary employer mobility. We develop a model of multidimensional skill investment under uncertain future skill returns. Higher skill returns provide more resources to pay for training, and allowing training to respond amplifies the output gains from technological change. Greater uncertainty about future skill returns, such as due to the unpredictable labour-market effects of AI, encourages workers to acquire a more balanced set of skills, giving them more flexibility to respond as skill returns change. These findings highlight workers’ proactive investment in skills and pursuit of new employment opportunities as important margins of adjustment to technological innovation.</p>
+</details>
+
+<div style="height: 0.75rem;"></div>
+
 Works in Progress
 ======
-
-**Technological Innovations and Worker Skills**<br>
-_With [J. Onken](https://joernonken.com/) and [Y. Shen](https://www.linkedin.com/in/allen-shen/)._
-
-<!-- <div style="height: 0.75rem;"></div> -->
 
 **Capping Student Outcomes: The Long-Term Consequences of Teacher Pay Restraint**<br>
 
