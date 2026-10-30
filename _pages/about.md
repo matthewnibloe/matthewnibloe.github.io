@@ -71,6 +71,9 @@ _With [P. Carneiro](https://www.homepages.ucl.ac.uk/~uctppca/) and [S. Cattan](h
 
 <div style="height: 0.75rem;"></div>
 
+Works in Progress
+======
+
 **Technological Innovations and Worker Skills** | [Draft](https://joernonken.com/files/NNOS_Worker_Skills.pdf)<br>
 _With [J. Onken](https://joernonken.com/) and [Y. Shen](https://www.linkedin.com/in/allen-shen/)._
 {: style="margin-bottom: 0;" }
@@ -80,9 +83,6 @@ _With [J. Onken](https://joernonken.com/) and [Y. Shen](https://www.linkedin.com
 </details>
 
 <div style="height: 0.75rem;"></div>
-
-Works in Progress
-======
 
 **Capping Student Outcomes: The Long-Term Consequences of Teacher Pay Restraint**<br>
 
