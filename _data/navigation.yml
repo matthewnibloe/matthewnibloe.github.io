@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/cv.pdf
+    url: /files/Nibloe_cv.pdf
     class: "persist masthead__cv-link"
     
   # - title: "CV"
