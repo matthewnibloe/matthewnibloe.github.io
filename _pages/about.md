@@ -40,7 +40,7 @@ Presented at the [Econometric Society Asia Meeting 2026](https://www.econometric
 Working Papers
 ======
 
-**The Distributional Consequences of Public Pay Caps** | [Updated draft](/files/public_inequality.pdf) (submitted)  <br>
+**The Distributional Consequences of Public Pay Caps** | [Updated draft](/files/Nibloe_public_inequality.pdf) (submitted)  <br>
 Presented at the [Prime Minister's Office](https://www.gov.uk/government/organisations/cabinet-office), [SOLE 2026](https://www.sole-jole.org/), [ESWC 2025](https://www.eswc2025.org/), [AASLE 2024](https://www.aasle.org/).<br>
 {: style="margin-bottom: 0;" }
 <details>
