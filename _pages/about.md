@@ -26,7 +26,7 @@ You can find my CV [here](https://matthewnibloe.github.io/files/Nibloe_cv.pdf).
 Job Market Paper
 ======
 
-**Trade Disintegration and Local Labour Markets: Evidence from Brexit**<br>
+**Trade Disintegration and Local Labour Markets: Evidence from Brexit** | [Draft](/files/Nibloe_JMP.pdf)<br>
 _With [A. Tang](https://www.linkedin.com/in/aaron-tang-econ/) and [J. Knuf](https://janknuf.com/)._<br>
 Presented at the [Econometric Society Asia Meeting 2026](https://www.econometricsociety.org/regional-activities/schedule/2026/06/19/2026-Asia-Meeting-China-Hong-Kong).
 {: style="margin-bottom: 0;" }
