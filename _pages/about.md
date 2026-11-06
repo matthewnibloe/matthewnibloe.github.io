@@ -61,7 +61,7 @@ _With [T. Schack](https://www.au.dk/en/tschack@econ.au.dk), [J. Meekes](https://
 
 <div style="height: 0.75rem;"></div>
 
-**Early Skills, Environments and Lifecycle Profiles of Earnings and Health**<br>
+**Early Skills, Environments and Lifecycle Profiles of Earnings and Health** | Draft available on request<br>
 _With [P. Carneiro](https://www.homepages.ucl.ac.uk/~uctppca/) and [S. Cattan](https://sites.google.com/site/sjcattan/home)._
 {: style="margin-bottom: 0;" }
 <details>
